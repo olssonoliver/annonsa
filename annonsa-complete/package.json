@@ -1,11 +1,4 @@
 {
-  "name": "annonsa-tradera-scraper",
-  "version": "1.0.0",
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
-  },
   "dependencies": {
     "cheerio": "^1.0.0-rc.12",
     "next": "^14.0.0",
